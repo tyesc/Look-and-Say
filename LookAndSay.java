@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Ex06 {
+public class LookAndSay {
 
     public static void displaySeq(ArrayList seq) {
         StringBuilder sb = new StringBuilder();
